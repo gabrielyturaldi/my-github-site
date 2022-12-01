@@ -2,9 +2,11 @@
 title: "my-website"
 date: 2022-11-22
 ---
-<a href="https://gabrielyturaldi.github.io/my-github-site/">
-  home
-</a>
+<p>
+  <a href="https://gabrielyturaldi.github.io/my-github-site/">
+    home
+  </a>
+</p>
 
 Welcome to my blog.
 
@@ -24,7 +26,8 @@ Here are some Holiday Recipes:
 
   <image width="250px" alt="Gingerbread cookies" src="https://user-images.githubusercontent.com/118770239/205130070-6d01f7d2-d593-48df-9575-570684a9920a.png">
   </image>
-  
-<a href="https://gabrielyturaldi.github.io/my-github-site/">
-  home
-</a>
+<p>
+  <a href="https://gabrielyturaldi.github.io/my-github-site/">
+    home
+  </a>
+</p>
